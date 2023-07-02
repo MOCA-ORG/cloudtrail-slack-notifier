@@ -1,0 +1,3 @@
+bucket = "name-of-bucket"
+key    = "cloudtrail.tfstate"
+region = "ap-northeast-1"

@@ -1,0 +1,10 @@
+{
+  "name": "slack_notifier",
+  "version": "1.0.0",
+  "description": "Notify CloudTrail logs to Slack.",
+  "main": "handler.js",
+  "dependencies": {
+    "@slack/webhook": "^6.1.0",
+    "aws-sdk": "^2.1409.0"
+  }
+}
